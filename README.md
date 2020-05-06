@@ -104,7 +104,7 @@ Content Cell  | Content Cell
                   * Sub-nested bullet etc
           * Bullet list item 2
 
--OR-
+Markup : - OR-
 
  Markup : - Bullet list
               - Nested bullet
